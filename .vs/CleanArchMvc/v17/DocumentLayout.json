@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{E8EACBE8-33BA-4AD5-B5B4-BBABA678BA4B}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E8EACBE8-33BA-4AD5-B5B4-BBABA678BA4B}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.domain\\validation\\domainexceptionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EACBE8-33BA-4AD5-B5B4-BBABA678BA4B}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\validation\\domainexceptionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8EACBE8-33BA-4AD5-B5B4-BBABA678BA4B}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8EACBE8-33BA-4AD5-B5B4-BBABA678BA4B}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,20 +22,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DomainExceptionValidation.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\Validation\\DomainExceptionValidation.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Validation\\DomainExceptionValidation.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\Validation\\DomainExceptionValidation.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Validation\\DomainExceptionValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:40:12.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Entities\\Product.cs",
               "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Product.cs",
               "RelativeToolTip": "CleanArchMvc.Domain\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T21:07:01.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T21:35:33.061Z"
             },
             {
               "$type": "Document",
@@ -41,9 +56,9 @@
               "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Entities\\Category.cs",
               "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Category.cs",
               "RelativeToolTip": "CleanArchMvc.Domain\\Entities\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T21:06:52.633Z",
+              "WhenOpened": "2024-05-06T21:35:22.295Z",
               "EditorCaption": ""
             }
           ]
