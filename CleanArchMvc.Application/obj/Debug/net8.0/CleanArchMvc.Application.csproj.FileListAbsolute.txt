@@ -13,3 +13,4 @@ C:\Users\vinny\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8
 C:\Users\vinny\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\refint\CleanArchMvc.Application.dll
 C:\Users\vinny\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.pdb
 C:\Users\vinny\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\ref\CleanArchMvc.Application.dll
+C:\Users\vinny\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.sourcelink.json

@@ -17,3 +17,4 @@ C:\Users\vinny\source\repos\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0
 C:\Users\vinny\source\repos\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\refint\CleanArchMvc.Infra.IoC.dll
 C:\Users\vinny\source\repos\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\CleanArchMvc.Infra.IoC.pdb
 C:\Users\vinny\source\repos\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\ref\CleanArchMvc.Infra.IoC.dll
+C:\Users\vinny\source\repos\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\CleanArchMvc.Infra.IoC.sourcelink.json
