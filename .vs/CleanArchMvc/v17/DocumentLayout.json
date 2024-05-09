@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\appsettings.json",
+              "RelativeToolTip": "CleanArchMvc.WebUI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T03:14:47.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\Program.cs",
               "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\Program.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "CleanArchMvc.Infra.IoC\\DependencyInjection.cs",
