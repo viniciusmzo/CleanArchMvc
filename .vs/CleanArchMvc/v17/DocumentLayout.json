@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Migrations\\20240509033112_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchMvc.Infra.Data\\Migrations\\20240509033112_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40CB03D9-B08C-4461-9570-BE42FE29A236}|CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40CB03D9-B08C-4461-9570-BE42FE29A236}|CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj|solutionrelative:cleanarchmvc.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FE62668-22EB-4E16-BEA6-988684CE7F8D}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.infra.data\\cleanarchmvc.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FE62668-22EB-4E16-BEA6-988684CE7F8D}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarchmvc.infra.data\\cleanarchmvc.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\appsettings.json",
-              "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\appsettings.json",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\appsettings.json",
-              "RelativeToolTip": "CleanArchMvc.WebUI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-09T03:14:47.779Z",
+              "Title": "20240509033112_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Migrations\\20240509033112_Inicial.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Infra.Data\\Migrations\\20240509033112_Inicial.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Migrations\\20240509033112_Inicial.cs",
+              "RelativeToolTip": "CleanArchMvc.Infra.Data\\Migrations\\20240509033112_Inicial.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T03:31:12.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\Program.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\Program.cs",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\Program.cs",
-              "RelativeToolTip": "CleanArchMvc.WebUI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T03:02:19.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Infra.IoC\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\DependencyInjection.cs",
-              "RelativeToolTip": "CleanArchMvc.Infra.IoC\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T02:53:58.375Z",
+              "Title": "CleanArchMvc.Infra.Data",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+              "RelativeDocumentMoniker": "CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+              "RelativeToolTip": "CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-09T03:30:23.565Z",
               "EditorCaption": ""
             }
           ]
