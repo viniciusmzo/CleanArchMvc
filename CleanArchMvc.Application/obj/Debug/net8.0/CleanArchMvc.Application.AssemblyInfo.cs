@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArchMvc.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+434609733a65ab364a6ff10e06f5340c1d2d05d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10c4f6d436bb22417528dfc3c77bb7580d8940a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArchMvc.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArchMvc.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

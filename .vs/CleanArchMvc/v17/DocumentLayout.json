@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.application\\mappings\\domaintodtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\mappings\\domaintodtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\Services\\CategoryService.cs",
-              "RelativeToolTip": "CleanArchMvc.Application\\Services\\CategoryService.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCcAAABCAAAA",
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\Services\\ProductService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowC0AAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T18:17:54.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\Interfaces\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Interfaces\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\Interfaces\\ICategoryService.cs",
-              "RelativeToolTip": "CleanArchMvc.Application\\Interfaces\\ICategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T17:44:47.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DomainToDTOMappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\Mappings\\DomainToDTOMappingProfile.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Mappings\\DomainToDTOMappingProfile.cs",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\Mappings\\DomainToDTOMappingProfile.cs",
-              "RelativeToolTip": "CleanArchMvc.Application\\Mappings\\DomainToDTOMappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T17:32:07.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\DTOs\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Application\\DTOs\\ProductDTO.cs",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\DTOs\\ProductDTO.cs",
-              "RelativeToolTip": "CleanArchMvc.Application\\DTOs\\ProductDTO.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAIwCgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T17:21:20.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\DTOs\\CategoryDTO.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Application\\DTOs\\CategoryDTO.cs",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\DTOs\\CategoryDTO.cs",
-              "RelativeToolTip": "CleanArchMvc.Application\\DTOs\\CategoryDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T17:20:51.862Z",
+              "WhenOpened": "2024-05-09T20:27:34.009Z",
               "EditorCaption": ""
             }
           ]
