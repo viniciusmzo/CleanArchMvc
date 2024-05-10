@@ -4147,6 +4147,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "AutoMapper >= 13.0.1",
       "CleanArchMvc.Application >= 1.0.0",
       "CleanArchMvc.Domain >= 1.0.0",
       "CleanArchMvc.Infra.Data >= 1.0.0"
@@ -4211,6 +4212,12 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+        "dependencies": {
+          "AutoMapper": {
+            "target": "Package",
+            "version": "[13.0.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
