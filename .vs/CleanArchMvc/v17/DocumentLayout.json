@@ -11,6 +11,14 @@
       "RelativeMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.webui\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.webui\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.webui\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -22,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "CleanArchMvc.WebUI\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T03:06:07.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CleanArchMvc.WebUI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T03:02:53.013Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +66,7 @@
               "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\Program.cs",
               "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\Program.cs",
               "RelativeToolTip": "CleanArchMvc.WebUI\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBUAAACPAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T02:58:07.409Z",
               "EditorCaption": ""
@@ -52,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\Controllers\\CategoriesController.cs",
