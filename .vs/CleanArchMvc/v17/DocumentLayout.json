@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\products\\queries\\getproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.application\\products\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\products\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.application\\products\\handlers\\getproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\products\\handlers\\getproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.application\\products\\handlers\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\products\\handlers\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.application\\products\\handlers\\productremovecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27208C3B-8D11-4991-AF47-F31957B4D789}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\products\\handlers\\productremovecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,22 +36,48 @@
               "RelativeDocumentMoniker": "CleanArchMvc.Application\\Products\\Queries\\GetProductsQuery.cs",
               "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\Products\\Queries\\GetProductsQuery.cs",
               "RelativeToolTip": "CleanArchMvc.Application\\Products\\Queries\\GetProductsQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T22:19:53.566Z",
+              "WhenOpened": "2024-05-13T23:34:54.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GetProductByIdQuery.cs",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\Products\\Queries\\GetProductByIdQuery.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Products\\Queries\\GetProductByIdQuery.cs",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\Products\\Queries\\GetProductByIdQuery.cs",
-              "RelativeToolTip": "CleanArchMvc.Application\\Products\\Queries\\GetProductByIdQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Title": "GetProductsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\Products\\Handlers\\GetProductsQueryHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Products\\Handlers\\GetProductsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\Products\\Handlers\\GetProductsQueryHandler.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\Products\\Handlers\\GetProductsQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T22:18:19.643Z",
+              "WhenOpened": "2024-05-13T23:32:14.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetProductByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\Products\\Handlers\\GetProductByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Products\\Handlers\\GetProductByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\Products\\Handlers\\GetProductByIdQueryHandler.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\Products\\Handlers\\GetProductByIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T23:25:39.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRemoveCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\Products\\Handlers\\ProductRemoveCommandHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Products\\Handlers\\ProductRemoveCommandHandler.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\Products\\Handlers\\ProductRemoveCommandHandler.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\Products\\Handlers\\ProductRemoveCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T23:13:35.109Z",
               "EditorCaption": ""
             }
           ]
