@@ -4211,7 +4211,8 @@
       "AutoMapper >= 13.0.1",
       "CleanArchMvc.Application >= 1.0.0",
       "CleanArchMvc.Domain >= 1.0.0",
-      "CleanArchMvc.Infra.Data >= 1.0.0"
+      "CleanArchMvc.Infra.Data >= 1.0.0",
+      "MediatR >= 12.2.0"
     ]
   },
   "packageFolders": {
@@ -4277,6 +4278,10 @@
           "AutoMapper": {
             "target": "Package",
             "version": "[13.0.1, )"
+          },
+          "MediatR": {
+            "target": "Package",
+            "version": "[12.2.0, )"
           }
         },
         "imports": [
