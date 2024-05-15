@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5FE62668-22EB-4E16-BEA6-988684CE7F8D}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.infra.data\\identity\\seeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE62668-22EB-4E16-BEA6-988684CE7F8D}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarchmvc.infra.data\\identity\\seeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FE62668-22EB-4E16-BEA6-988684CE7F8D}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.infra.data\\identity\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FE62668-22EB-4E16-BEA6-988684CE7F8D}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarchmvc.infra.data\\identity\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SeedUserRoleInitial.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Identity\\SeedUserRoleInitial.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Infra.Data\\Identity\\SeedUserRoleInitial.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Identity\\SeedUserRoleInitial.cs",
+              "RelativeToolTip": "CleanArchMvc.Infra.Data\\Identity\\SeedUserRoleInitial.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowEcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:43:40.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AuthenticateService.cs",
               "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Identity\\AuthenticateService.cs",
               "RelativeDocumentMoniker": "CleanArchMvc.Infra.Data\\Identity\\AuthenticateService.cs",
               "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Identity\\AuthenticateService.cs",
               "RelativeToolTip": "CleanArchMvc.Infra.Data\\Identity\\AuthenticateService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCkAAAAwAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wCkAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T22:24:29.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ISeedUserRoleInitial.cs",
               "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\Account\\ISeedUserRoleInitial.cs",
               "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Account\\ISeedUserRoleInitial.cs",
@@ -52,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IAuthenticate.cs",
               "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\Account\\IAuthenticate.cs",
               "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Account\\IAuthenticate.cs",
