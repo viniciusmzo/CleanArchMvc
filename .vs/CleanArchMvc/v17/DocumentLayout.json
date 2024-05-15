@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Migrations\\20240515221201_AddIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchMvc.Infra.Data\\Migrations\\20240515221201_AddIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8EACBE8-33BA-4AD5-B5B4-BBABA678BA4B}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.domain\\account\\iseeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EACBE8-33BA-4AD5-B5B4-BBABA678BA4B}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\account\\iseeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FE62668-22EB-4E16-BEA6-988684CE7F8D}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.infra.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FE62668-22EB-4E16-BEA6-988684CE7F8D}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarchmvc.infra.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FE62668-22EB-4E16-BEA6-988684CE7F8D}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.infra.data\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FE62668-22EB-4E16-BEA6-988684CE7F8D}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarchmvc.infra.data\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8EACBE8-33BA-4AD5-B5B4-BBABA678BA4B}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.domain\\account\\iauthenticate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EACBE8-33BA-4AD5-B5B4-BBABA678BA4B}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\account\\iauthenticate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20240515221201_AddIdentityTables.cs",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Migrations\\20240515221201_AddIdentityTables.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Infra.Data\\Migrations\\20240515221201_AddIdentityTables.cs",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Migrations\\20240515221201_AddIdentityTables.cs",
-              "RelativeToolTip": "CleanArchMvc.Infra.Data\\Migrations\\20240515221201_AddIdentityTables.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ISeedUserRoleInitial.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\Account\\ISeedUserRoleInitial.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Account\\ISeedUserRoleInitial.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\Account\\ISeedUserRoleInitial.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Account\\ISeedUserRoleInitial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T22:12:01.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Identity\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Infra.Data\\Identity\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Identity\\ApplicationUser.cs",
-              "RelativeToolTip": "CleanArchMvc.Infra.Data\\Identity\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T22:07:55.612Z",
+              "WhenOpened": "2024-05-15T22:21:53.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Infra.Data\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "CleanArchMvc.Infra.Data\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Title": "IAuthenticate.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\Account\\IAuthenticate.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Account\\IAuthenticate.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\Account\\IAuthenticate.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Account\\IAuthenticate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T22:06:33.079Z",
+              "WhenOpened": "2024-05-15T22:19:58.259Z",
               "EditorCaption": ""
             }
           ]
