@@ -23,7 +23,7 @@ namespace CleanArchMvc.Application.Products.Handlers
             }
             else 
             {
-                product.Update(request.Description, request.Description, request.Price, request.Stock, request.Image, request.CategoryId);
+                product.Update(request.Name, request.Description, request.Price, request.Stock, request.Image, request.CategoryId);
                 
                 return await _productRepository.UpdateAsync(product);
             }
