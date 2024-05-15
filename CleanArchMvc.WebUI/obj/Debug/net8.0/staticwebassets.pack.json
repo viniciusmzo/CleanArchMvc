@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\Borracha.jpg",
+      "PackagePath": "staticwebassets\\images\\Borracha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\catalog.png",
+      "PackagePath": "staticwebassets\\images\\catalog.png"
+    },
+    {
+      "Id": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\images\\noimage.png"
+    },
+    {
       "Id": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
