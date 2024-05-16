@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.webui\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.webui\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.webui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACBB3E0-67B0-4509-904B-7749954404EE}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40CB03D9-B08C-4461-9570-BE42FE29A236}|CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40CB03D9-B08C-4461-9570-BE42FE29A236}|CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj|solutionrelative:cleanarchmvc.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "CleanArchMvc.WebUI\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:08:27.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "CleanArchMvc.WebUI\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:03:29.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CleanArchMvc.WebUI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:57:56.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "CleanArchMvc.Infra.IoC\\DependencyInjection.cs",
               "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\DependencyInjection.cs",
               "RelativeToolTip": "CleanArchMvc.Infra.IoC\\DependencyInjection.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAABlAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBwAAABlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T18:36:28.881Z",
               "EditorCaption": ""
