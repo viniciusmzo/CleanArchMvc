@@ -13,7 +13,7 @@ namespace CleanArchMvc.WebUI.Controllers
         }
 
         [HttpGet]
-        public ActionResult Login(string returnUrl)
+        public ActionResult Login(string? returnUrl)
         {
             return View(new LoginViewModel()
             {
@@ -32,7 +32,7 @@ namespace CleanArchMvc.WebUI.Controllers
                 {
                     return RedirectToAction("Index", "Home");
                 }
-                return RedirectToAction(model.ReturnUrl);
+                return RedirectToAction("Index", "Categories");
             }
             else 
             {
