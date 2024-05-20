@@ -93,8 +93,7 @@ namespace CleanArchMvc.WebUI.Controllers
 
             return View(categoryDto);
         }
-
-        [HttpPost, ActionName("Delete")]
+        
         public async Task<IActionResult> DeleteCondirmed(int id) 
         {
             await _categoryService.Remove(id);
