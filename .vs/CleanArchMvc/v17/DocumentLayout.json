@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48E33181-4E89-4BD4-8A42-3A32CC51CF22}|CleanArchMvc.API\\CleanArchMvc.API.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{48E33181-4E89-4BD4-8A42-3A32CC51CF22}|CleanArchMvc.API\\CleanArchMvc.API.csproj|solutionrelative:cleanarchmvc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E33181-4E89-4BD4-8A42-3A32CC51CF22}|CleanArchMvc.API\\CleanArchMvc.API.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48E33181-4E89-4BD4-8A42-3A32CC51CF22}|CleanArchMvc.API\\CleanArchMvc.API.csproj|solutionrelative:cleanarchmvc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40CB03D9-B08C-4461-9570-BE42FE29A236}|CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.infra.ioc\\dependencyinjectionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40CB03D9-B08C-4461-9570-BE42FE29A236}|CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj|solutionrelative:cleanarchmvc.infra.ioc\\dependencyinjectionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48E33181-4E89-4BD4-8A42-3A32CC51CF22}|CleanArchMvc.API\\CleanArchMvc.API.csproj|c:\\users\\vinny\\source\\repos\\cleanarchmvc\\cleanarchmvc.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E33181-4E89-4BD4-8A42-3A32CC51CF22}|CleanArchMvc.API\\CleanArchMvc.API.csproj|solutionrelative:cleanarchmvc.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.API\\appsettings.json",
-              "RelativeDocumentMoniker": "CleanArchMvc.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.API\\appsettings.json",
-              "RelativeToolTip": "CleanArchMvc.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-20T17:54:47.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.API\\Program.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.API\\Program.cs",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.API\\Program.cs",
-              "RelativeToolTip": "CleanArchMvc.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAjAAAA",
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "CleanArchMvc.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T17:50:41.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DependencyInjectionAPI.cs",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\DependencyInjectionAPI.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Infra.IoC\\DependencyInjectionAPI.cs",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\DependencyInjectionAPI.cs",
-              "RelativeToolTip": "CleanArchMvc.Infra.IoC\\DependencyInjectionAPI.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T17:47:34.764Z",
+              "WhenOpened": "2024-05-20T21:22:05.812Z",
               "EditorCaption": ""
             }
           ]
